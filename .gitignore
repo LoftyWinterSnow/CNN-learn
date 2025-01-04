@@ -1,0 +1,4 @@
+build/*
+report/*
+*.pyc
+.vscode/*
